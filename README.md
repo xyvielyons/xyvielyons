@@ -1,5 +1,50 @@
 # 💫 About Me:
- Hi there! 👋<br><br>I'm xyvielyons, a passionate software engineer with a love for crafting clean code and building innovative solutions. My journey in the world of programming started 5 years ago, and I've been hooked ever since.<br><br> 🚀 Quick Overview:<br>- 💻 Software Engineer with expertise in graphic design and full stack web development.<br>- 🌐 Experienced in developing web, mobile and desktop applications<br>- 📚 Constantly learning and exploring new technologies to stay up-to-date with the rapidly evolving tech landscape.<br><br> 🌱 What I'm Currently Learning:<br>- 🧠 Exploring  machine learning and cloud computing to broaden my skill set.<br>- 📖 Always open to new challenges and eager to dive into unfamiliar territories.<br><br> 📫 Let's Connect:<br>- 📧 Feel free to reach out to me via xyvielyons@gmail.com for collaboration or exciting tech discussions.<br>- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/xyvie-lyons-a8873820a) to learn more about my professional journey.<br><br>🎯 My Goal:<br>- 🌟 To leverage technology to create meaningful and impactful solutions that make a difference.<br><br> 💬 Fun Fact:<br>- ⚡️ When I'm not coding, you can find me outside going for a walk or going to the gym.<br><br>Looking forward to connecting with fellow developers, tech enthusiasts, and innovators! Let's build the future together! 💻🌍<br><br>
+ with over 6 years of experience in building web and mobile applications that generate real results for clients. Let's collaborate to create a high-performing app that takes your business to the next level.
+
+My expertise is a perfect fit for projects where…
+🪄 "You need a game-changing app, and nothing less will do."
+🪄 “You want to take your business/project to the next level”
+🪄 “You want high quality work”
+🪄 “You want the Best in the field”
+🪄 “You want a person who you can collaborate and work with you”
+
+By working with me, you'll:
+
+⭐️ Focus on what you do best:  Leave the app development to me while you concentrate on running your business.
+
+⭐️ Get a high-performing app: I'll build a mobile or web solution that delivers exceptional results.
+
+⭐️ Save time and resources: My expertise translates into a smooth, user-friendly, and powerful application, saving you valuable development hours.
+
+⭐️ Collaborate with a dedicated developer:  We'll work side-by-side to craft a solution that exceeds your expectations and fits your vision perfectly.
+
+⭐️ Benefit from proven experience: I bring a track record of building high-quality mobile and web experiences, ensuring your app is built for success.
+
+Hear how I've helped businesses achieve their goals through mobile and web development :
+
+- "This developer is incredible! 100% worth the investment!" - [Ndemi Kiiru] a bio tech engineer at KEMRI
+- "My app, built by this expert, helped secure a $30M deal!” - [VINCENT WALUMBEKYO] SOUTH AFRICA
+- "Investors loved the user experience! A true success story." - [Membly Hotel] hotel in Nairobi Kenya
+- "This developer's skills are top-notch! Pure magic!" - [EWED] Founder and CEO of easy world
+
+What we look for in a new client:
+
+- Collaborative and easygoing:  We value open communication and a positive working environment.
+- Honest and reliable: Building trust is key. We appreciate clients who share our commitment to integrity.
+- Results-oriented:*We focus on delivering high-impact apps. Let's work together to achieve your goals!
+- Clear expectations: Knowing your project's scope helps us deliver the best possible solution.
+- Committed to excellence: We strive to create top-notch apps. Are you looking for the same?
+
+Ready to turn your vision into reality?
+    🤙 Let's chat: Click the 🟢 button in the top right corner and hit "Send Message."
+    Explore my skills: Check my work examples to see what I can do.
+
+What i specialize in:
+      Frontend Development: Reactjs,nextjs,reactnative,tailwind
+      Backend Development: expressjs,nodejs,mongodb,grpc,appwrite,firebase,microservices,rabbitmq,mqtt
+      devops: docker, ci/cd 
+     Ux/Ui: photoshop,figma
+     collaboration tools: jira, github, monday.com and clickup 💻🌍<br><br>
 
 
 ## 🌐 Socials:
