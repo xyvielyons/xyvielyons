@@ -49,8 +49,6 @@ Full-stack developer with 6+ years of experience building web and mobile apps th
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=xyvielyons&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=xyvielyons&icon=0&color=1)](https://visitcount.itsvg.in)
