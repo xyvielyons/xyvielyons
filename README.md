@@ -1,50 +1,33 @@
-# 💫 About Me:
- with over 6 years of experience in building web and mobile applications that generate real results for clients. Let's collaborate to create a high-performing app that takes your business to the next level.
+Full-stack developer with 6+ years of experience building web and mobile apps that deliver real results. I help businesses scale through high-performing, user-focused solutions.
+🧠 What I Bring:
 
-My expertise is a perfect fit for projects where…
-🪄 "You need a game-changing app, and nothing less will do."
-🪄 “You want to take your business/project to the next level”
-🪄 “You want high quality work”
-🪄 “You want the Best in the field”
-🪄 “You want a person who you can collaborate and work with you”
+    Expert in React.js, Next.js, React Native, Tailwind
 
-By working with me, you'll:
+    Backend: Node.js, Express, MongoDB, Firebase, Appwrite, gRPC, MQTT, Microservices
 
-⭐️ Focus on what you do best:  Leave the app development to me while you concentrate on running your business.
+    DevOps: Docker, CI/CD
 
-⭐️ Get a high-performing app: I'll build a mobile or web solution that delivers exceptional results.
+    UI/UX: Figma, Photoshop
 
-⭐️ Save time and resources: My expertise translates into a smooth, user-friendly, and powerful application, saving you valuable development hours.
+    Tools: Jira, GitHub, Monday.com, ClickUp
 
-⭐️ Collaborate with a dedicated developer:  We'll work side-by-side to craft a solution that exceeds your expectations and fits your vision perfectly.
+🚀 Why Work With Me:
 
-⭐️ Benefit from proven experience: I bring a track record of building high-quality mobile and web experiences, ensuring your app is built for success.
+    Save time & get results with efficient, scalable apps
 
-Hear how I've helped businesses achieve their goals through mobile and web development :
+    Focus on your business—I'll handle the tech
 
-- "This developer is incredible! 100% worth the investment!" - [Ndemi Kiiru] a bio tech engineer at KEMRI
-- "My app, built by this expert, helped secure a $30M deal!” - [VINCENT WALUMBEKYO] SOUTH AFRICA
-- "Investors loved the user experience! A true success story." - [Membly Hotel] hotel in Nairobi Kenya
-- "This developer's skills are top-notch! Pure magic!" - [EWED] Founder and CEO of easy world
+    Collaborate with someone who cares about your vision
 
-What we look for in a new client:
+    Proven track record of building quality products
 
-- Collaborative and easygoing:  We value open communication and a positive working environment.
-- Honest and reliable: Building trust is key. We appreciate clients who share our commitment to integrity.
-- Results-oriented:*We focus on delivering high-impact apps. Let's work together to achieve your goals!
-- Clear expectations: Knowing your project's scope helps us deliver the best possible solution.
-- Committed to excellence: We strive to create top-notch apps. Are you looking for the same?
+✅ Ideal Clients:
 
-Ready to turn your vision into reality?
-    🤙 Let's chat: Click the 🟢 button in the top right corner and hit "Send Message."
-    Explore my skills: Check my work examples to see what I can do.
+    Clear communicators who value collaboration
 
-What i specialize in:
-      Frontend Development: Reactjs,nextjs,reactnative,tailwind
-      Backend Development: expressjs,nodejs,mongodb,grpc,appwrite,firebase,microservices,rabbitmq,mqtt
-      devops: docker, ci/cd 
-     Ux/Ui: photoshop,figma
-     collaboration tools: jira, github, monday.com and clickup 💻🌍<br><br>
+    Committed to building impactful, high-quality solutions
+
+📬 Let’s connect and build something exceptional!
 
 
 ## 🌐 Socials:
