@@ -1,15 +1,22 @@
 Full-stack developer with 6+ years of experience building web and mobile apps that deliver real results. I help businesses scale through high-performing, user-focused solutions.
 🧠 What I Bring:
 
-    Expert in React.js, Next.js, React Native, Tailwind
-
-    Backend: Node.js, Express, MongoDB, Firebase, Appwrite, gRPC, MQTT, Microservices
+    Expert in:
+    
+    Frontend: React.js, Next.js, React Native, Tailwind
+    
+    Backend: Node.js, Express, MongoDB, Firebase, Appwrite, gRPC, MQTT, Microservices, Mysql, Postgress
 
     DevOps: Docker, CI/CD
 
-    UI/UX: Figma, Photoshop
+    UI/UX: Figma, Photoshop, Canva
 
     Tools: Jira, GitHub, Monday.com, ClickUp
+
+    Hardware: Arduino, Esp32, Stm32, Raspberry pi & pico
+
+    Low level language: C and C++
+    
 
 🚀 Why Work With Me:
 
