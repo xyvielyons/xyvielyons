@@ -1,5 +1,6 @@
 I believe good engineering speaks for itself. I build things that work and keep working.
 
+
 🧠 What I Bring:
 
     Expert in:
@@ -18,15 +19,16 @@ I believe good engineering speaks for itself. I build things that work and keep 
 
     Low level language: C and C++
     
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/xavier_mbugua/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xyvie-lyons-a8873820a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/xyvielyons) 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xyvielyons/xyvielyons/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xyvielyons/xyvielyons/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/xyvielyons/xyvielyons/output/pacman-contribution-graph.svg">
 </picture>
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/xavier_mbugua/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xyvie-lyons-a8873820a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/xyvielyons) 
+
 
 
 # 💻 Tech Stack:
